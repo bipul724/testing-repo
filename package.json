@@ -1,0 +1,10 @@
+{
+  "name": "testing-repo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Sample repo with intentional issues for testing analyzers",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node --test"
+  }
+}
